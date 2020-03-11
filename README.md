@@ -1,2 +1,3 @@
 # touchpressure
-Get touch pressure
+Get touch pressure by Web browser
+using HTML and Java Script
